@@ -1,0 +1,7 @@
+{
+  "name": "OnePush-07",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
