@@ -36,7 +36,7 @@ export class PushService {
   }
 
   OneSignalInit() {
-    OneSignal.setAppId("8485580d-9be0-4b23-b4cf-0798f27e07e4");
+    OneSignal.setAppId("AQUI COLOQUE SU ID DE ONESIGNAL");
 
     OneSignal.setNotificationWillShowInForegroundHandler(resp => {
       let notif = resp.getNotification();
